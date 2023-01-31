@@ -50,7 +50,7 @@ print("http://"+args.plc+"/index.html?redirect=//"+args.redirect)
 
 # Disclosure
 
-The vulnerabilities were immediately reported to the National Cybersecurity and Communications Integration Center (NCCIC) by security researchers Josiah Bryan and Geancarlo Palavicini. You can find the full advisory here.
+The vulnerabilities were immediately reported to the National Cybersecurity and Communications Integration Center (NCCIC) by security researchers Josiah Bryan and Geancarlo Palavicini. You can find the full advisory [here](https://www.cisa.gov/uscert/ics/advisories/ICSA-19-113-01).
 
 # Mitigation
 
