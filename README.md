@@ -1,4 +1,4 @@
-# Overview of ICSA-19-113-01
+# Description of ICSA-19-113-01
 
 The following Rockwell Automation products were discovered to contain an open redirect vulnerability:
 
